@@ -1,0 +1,5 @@
+{
+  "name": "Lazuardi Asset Manager",
+  "description": "Sistem Manajemen Aset Sekolah Lazuardi dengan fitur QR Code, pelacakan lokasi, dan laporan.",
+  "requestFramePermissions": []
+}
